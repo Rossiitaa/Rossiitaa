@@ -29,7 +29,6 @@ I'm a Full Stack student from Naples (Italy) - 24 y.o.
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/rosario-scuotto-900382250/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="40" width="40" /></a>
-<a href="https://www.instagram.com/rosarioscuottoo/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="" height="40" width="40" /></a>
 </div>
 
 <hr>
@@ -45,6 +44,8 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" **alt="mysql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="laravel" **alt="laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" **alt="java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" **alt="spring" width="40" height="40"/>
 </div>
 
 <hr>
