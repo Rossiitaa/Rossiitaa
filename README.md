@@ -13,7 +13,7 @@
 ### :man_technologist: About Me :
 
 I'm a Full Stack student from Naples (Italy) - 24 y.o.
-  -  I’m currently learning: HMTL - CSS - JavaScript - VueJs - My Sql - PHP - Laravel
+  -  I’m currently learning: HMTL - CSS - JavaScript - VueJs - My Sql - PHP - Laravel - Java - Spring - Angular - TypeScript
   -  Hobbies: 🎮 Nerd - 🏆 Sports Enjoyer 
   
   <h3>How to reach me:</h3>
@@ -46,6 +46,8 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="laravel" **alt="laravel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" **alt="java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" **alt="spring" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5gaVMaahkmEDw9T4a77ouaZ6yI4T62AsTIbGDQ64G5HMiA0FrgJaHYWDWXFIouhfPsHk&usqp=CAU" title="Angular" **alt="angular" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScrpt" **alt="typescript" width="40" height="40"/>
 </div>
 
 <hr>
